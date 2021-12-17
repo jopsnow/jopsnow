@@ -1,5 +1,7 @@
 👋 Hello World 
-🐤 @c5136966 | telegram: @jppr0116
+Python(Django/Flask)/PHP(Wordpress/Laravel)/NodeJS
+
+- 🐤 @c5136966 | telegram: @jppr0116
 <!-- - 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
