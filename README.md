@@ -1,4 +1,4 @@
-👋 professional procrastinator 
+🙃 professional procrastinator 
 - 🐍 Python(Django,Flask)
 - 🐘 PHP(Wordpress,Laravel)
 - 🧩 NodeJS
