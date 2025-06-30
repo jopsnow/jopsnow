@@ -1,8 +1,10 @@
 🙃 professional procrastinator 
-- 🐍 Python(Django,Flask)
-- 🐘 PHP(Wordpress,Laravel)
-- 🧩 NodeJS
-- Amazon AWS/MS Azure
+- 🐍 Python (Django/Flask/FastAPI)
+- 🐘 PHP (WordPress/Laravel)
+- 🧩 Javascript/NodeJS
+- 💻 Amazon AWS/MS Azure
+- 🐬 MySQL/PostgreSQL/MSSQL
+- 🗒️ VBA (Excel Macro)
 <!-- - 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
