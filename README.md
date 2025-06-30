@@ -1,5 +1,8 @@
-👋 Hello World 
-- 🐍 Python(Django,Flask) / 🐘 PHP(Wordpress,Laravel) / 🧩 NodeJS / Amazon AWS/MS Azure
+👋 professional procrastinator 
+- 🐍 Python(Django,Flask)
+- 🐘 PHP(Wordpress,Laravel)
+- 🧩 NodeJS
+- Amazon AWS/MS Azure
 <!-- - 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
